@@ -1,3 +1,7 @@
+https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a
+This project use Node.js for server side, React for client side, Redux for managing data and Redux-saga for side-effect.
+This is a simple chat app just to try out React, Redux, Redux-Saga and Websocket.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
